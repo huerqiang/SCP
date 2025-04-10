@@ -57,13 +57,13 @@ with other Seurat functions.
 ## Installation in the global R environment
 
 You can install the latest version of SCP from
-[GitHub](https://github.com/zhanghao-njmu/SCP) with:
+[GitHub](https://github.com/huerqiang/SCP) with:
 
 ``` r
 if (!require("devtools", quietly = TRUE)) {
   install.packages("devtools")
 }
-devtools::install_github("zhanghao-njmu/SCP")
+devtools::install_github("huerqiang/SCP")
 ```
 
 #### Create a python environment for SCP
